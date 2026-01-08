@@ -75,3 +75,16 @@ git clone [https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git](https:/
 cd Spectral-Threshold-Yang-Mills
 pip install -r requirements.txt
 python QuantYangMills.py
+
+📜 Citation
+
+If you use this code or the Spectral Threshold framework in your research, please cite the original paper:
+
+@article{bush2025yangmills,
+  title={A Non-Perturbative Lower Bound on the Spectrum of Euclidean Yang-Mills Theory},
+  author={Bush, Jared C.},
+  journal={Zenodo},
+  year={2025},
+  doi={10.5281/zenodo.18158682},
+  url={[https://doi.org/10.5281/zenodo.18158682](https://doi.org/10.5281/zenodo.18158682)}
+}
