@@ -75,6 +75,7 @@ git clone [https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git](https:/
 cd Spectral-Threshold-Yang-Mills
 pip install -r requirements.txt
 python QuantYangMills.py
+```
 
 📜 Citation
 
