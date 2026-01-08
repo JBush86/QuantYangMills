@@ -31,8 +31,9 @@ These scripts demonstrate that a non-zero mass gap ($\Delta > 0$) emerges natura
 ### 1. The Emergence of Mass
 The simulation proves that sub-threshold fluctuations decay (massless glueballs), while super-threshold excitations persist as stable massive particles.
 
-![Field Evolution](images/gauge_field_evolution.png)
-*Figure 1: Top: Raw Gauge Field fluctuations. Bottom: The Information Field ($I$) showing stable particles forming only where the Spectral Threshold is crossed.*
+![Field Evolution]
+*Figure 1: Top: Raw Gauge Field fluctuations. Bottom: The Information Field (I) showing stable particles forming only where the Spectral Threshold is crossed.*
+( See paper for figures, or produce them with the scripts )
 
 ### 2. Robustness & Scaling
 We performed rigorous statistical sweeps across coupling constants ($\beta$) and energy budgets to validate the mechanism.
@@ -41,8 +42,9 @@ We performed rigorous statistical sweeps across coupling constants ($\beta$) and
 * **Linearity:** Total Information ($I$) scales linearly with Energy ($E$), satisfying the First Law of Thermodynamics ($I=E$).
 * **Stability:** Growth exponents ($\mu$) are orders of magnitude smaller than decay exponents ($\lambda$), confirming particle stability.
 
-![Beta Sweep](images/beta_sweep_results.png)
+![Beta Sweep]
 *Figure 2: Statistical validation of the Mass Gap threshold across different lattice parameters.*
+( See paper for figures, or produce them with the scripts )
 
 ---
 
@@ -73,7 +75,6 @@ Clone the repository and run the primary simulation:
 ```bash
 git clone [https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git](https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git)
 cd Spectral-Threshold-Yang-Mills
-pip install -r requirements.txt
 python QuantYangMills.py
 ```
 
