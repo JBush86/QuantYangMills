@@ -9,7 +9,7 @@
 
 ---
 
-## 🧪 Project Overview
+## Project Overview
 
 This repository contains the **Lattice Monte Carlo simulations** and **Python reference implementations** used to validate the **Spectral Threshold** mechanism proposed in the associated research paper.
 
@@ -26,7 +26,7 @@ These scripts demonstrate that a non-zero mass gap ($\Delta > 0$) emerges natura
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### 1. The Emergence of Mass
 The simulation proves that sub-threshold fluctuations decay (massless glueballs), while super-threshold excitations persist as stable massive particles.
@@ -46,7 +46,7 @@ We performed rigorous statistical sweeps across coupling constants ($\beta$) and
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Script | Description | Complexity |
 | :--- | :--- | :--- |
@@ -59,7 +59,7 @@ We performed rigorous statistical sweeps across coupling constants ($\beta$) and
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 * Python 3.9+
@@ -77,15 +77,7 @@ pip install -r requirements.txt
 python QuantYangMills.py
 ```
 
-📜 Citation
+## Citation
 
-If you use this code or the Spectral Threshold framework in your research, please cite the original paper:
-
-@article{bush2025yangmills,
-  title={A Non-Perturbative Lower Bound on the Spectrum of Euclidean Yang-Mills Theory},
-  author={Bush, Jared C.},
-  journal={Zenodo},
-  year={2025},
-  doi={10.5281/zenodo.18158682},
-  url={[https://doi.org/10.5281/zenodo.18158682](https://doi.org/10.5281/zenodo.18158682)}
-}
+### If you use this code or the Spectral Threshold framework in your research, please cite the original paper listed above.
+Thank you!
