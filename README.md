@@ -71,7 +71,7 @@ We performed rigorous statistical sweeps across coupling constants ($\beta$) and
 Clone the repository and run the primary simulation:
 
 ```bash
-git clone [https://github.com/YourUsername/Spectral-Threshold-Yang-Mills.git](https://github.com/YourUsername/Spectral-Threshold-Yang-Mills.git)
+git clone [https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git](https://github.com/JBush86/Spectral-Threshold-Yang-Mills.git)
 cd Spectral-Threshold-Yang-Mills
 pip install -r requirements.txt
 python QuantYangMills.py
